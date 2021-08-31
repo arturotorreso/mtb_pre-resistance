@@ -15,6 +15,7 @@ The files repeat the analysis specified in Materials and Mehods:<br/>
 >Ancestral sequence reconstruction: anc_seq_recons.R<br/>
 >Survival analysis using phylogenetic tree: survTree_functions.R<br/>
 5) Genome-wide association study<br/>
+> gwas_alignment.R
 
 
 
