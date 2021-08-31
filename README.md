@@ -9,7 +9,9 @@ The files repeat the analysis specified in Materials and Mehods:<br/>
 >VCF filtering and annotation: addFT.py<br/>
 >Pseudosequence creation: vcf2pseudoseq.py<br/>
 2) Phylogenetic inference<br/>
-3) Phylogenetic analysis<br/>
+> Tree inference: 
+> Tree dating: runBactDat.R, run_bactDat.sh
+4) Phylogenetic analysis<br/>
 >Ancestral sequence reconstruction: anc_seq_recons.R<br/>
 >Survival analysis using phylogenetic tree: survTree_functions.R<br/>
 5) Genome-wide association study<br/>
