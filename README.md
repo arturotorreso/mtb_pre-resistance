@@ -8,6 +8,7 @@ The files repeat the analysis specified in Materials and Mehods:
 2) Phylogenetic inference
 3) Phylogenetic analysis
     Ancestral sequence reconstruction: anc_seq_recons.R
+    Survival analysis using phylogenetic tree: survTree_functions.R
 5) Genome-wide association study
 
 
