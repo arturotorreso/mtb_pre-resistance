@@ -13,7 +13,7 @@ The files repeat the analysis specified in Materials and Mehods:<br/>
 > Tree dating: runBactDat.R, run_bactDat.sh<br/>
 4) Phylogenetic analysis<br/>
 >Ancestral sequence reconstruction: anc_seq_recons.R<br/>
->Survival analysis using phylogenetic tree: survTree_functions.R<br/>
+>Survival analysis using phylogenetic tree: survTree_functions.R, tree_functions.R, survival_analysis.R<br/>
 5) Genome-wide association study<br/>
 > Alignment preparation: gwas_alignment.R
 > GWAS: gwas2_analysis.R
