@@ -16,6 +16,7 @@ The files repeat the analysis specified in Materials and Mehods:<br/>
 >Survival analysis using phylogenetic tree: survTree_functions.R<br/>
 5) Genome-wide association study<br/>
 > Alignment preparation: gwas_alignment.R
+> GWAS: gwas2_analysis.R
 
 
 
