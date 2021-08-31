@@ -8,7 +8,7 @@
 #$ -j y
 #$ -t 1-3432
 #$ -l tscratch=15G
-#$ -o /SAN/ballouxlab/tb_lima/temp
+#$ -o /
 
 hostname
 date
