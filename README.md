@@ -18,5 +18,6 @@ The files repeat the analysis specified in Materials and Mehods:<br/>
 > Alignment preparation: gwas_alignment.R
 > GWAS: gwas2_analysis.R
 
-
+This code has been tested on R version 4.1.1 (2021-08-10).
+Dependencies required are specified within the R scripts.
 
