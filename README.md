@@ -1,7 +1,7 @@
 # Genomic Signatures of Pre-Resistance in Mycobacterium tuberculosis
 
 Code for Genomic Signatures of Pre-Resistance in Mycobacterium tuberculosis.
-https://www.researchsquare.com/article/rs-364747/v1
+https://www.nature.com/articles/s41467-021-27616-7
 
 The files repeat the analysis specified in Materials and Mehods:<br/>
 1) Assembly, variant calling and pseudosequence:<br/>
