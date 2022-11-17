@@ -14,6 +14,8 @@ The files repeat the analysis specified in Materials and Mehods:<br/>
 4) Phylogenetic analysis<br/>
 >Ancestral sequence reconstruction: anc_seq_recons.R<br/>
 >Survival analysis using phylogenetic tree: survTree_functions.R, tree_functions.R, survival_analysis.R<br/>
+>TB profiler DB file: tb_profiler_db.complete.good.posStrRef.tsv<br/>
+>Genome index file: mtb.snps.dels.wg.withDR.assembly.finalSet.snpSites.masked.idx<br/>
 5) Genome-wide association study<br/>
 > Alignment preparation: gwas_alignment.R
 > GWAS: gwas2_analysis.R
